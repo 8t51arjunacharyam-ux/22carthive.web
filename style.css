@@ -1,0 +1,27 @@
+.top-text{
+    margin: 10px;
+    border-radius: 12px;
+}
+h1{
+    margin-bottom: 23px;
+}
+h4{
+    color: rgb(32, 39, 39);
+    margin-bottom: 12px;
+}
+p{
+    color: rgb(97, 100, 103);
+}
+
+img{
+    height: 40%;
+    width: 100%;
+}
+body{
+    margin-left: none !important;
+    height: 100%;
+    margin-right: none !important;
+}
+#Catagories{
+    border-radius: 12px;
+}
